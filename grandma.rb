@@ -7,5 +7,4 @@ elsif phrase == "I LOVE YOU GRANDMA"
 else
   return "HUH?! SPEAK UP, SONNY!"
 end
-end phrase == phrase.downcase
-phrase == "I LOVE YOU GRANDMA
+end
